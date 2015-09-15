@@ -1,6 +1,6 @@
-angular-presentation
-====================
+Workshop Spring Framework / AngularJS
+====================+++++++++++++++++
 
-Presentation on AngularJS. View it on 
+Facilitador: Lyndon Tavares
 
-http://mattiash.github.io/angular-presentation/presentation.html
+Set.2015
